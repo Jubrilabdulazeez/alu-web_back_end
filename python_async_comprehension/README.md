@@ -1,1 +1,1 @@
-Python comprehensions
+Python comprehension tasks
